@@ -1,239 +1,80 @@
-# 👋I'm Zanjare (زَنجَرِه)
+# I'm Zanjare [زَنجَرِه]
 
-### 🐍 Python Developer · 🐧 Linux Enthusiast · 🤖 Bot Developer · 🎮 Game Developer
+### 🐍 Python Developer · 🐧 Linux · 🤖 Bots · 🎮 Game Development
 
-I build things with code, explore Linux and open-source software, and enjoy turning ideas into useful projects.
-
-My main interests are **Python development, Linux, automation, Discord & Telegram bots, web technologies, game development, and 3D modeling.**
+I build software, automation tools, bots, games, and creative projects.
 
 ---
 
 ## 🧠 Skills
 
-### 🐍 Programming
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,ts,html,css" />
 </p>
 
-* Python
-* Bash / Shell Scripting
-* JavaScript
-* TypeScript
-
----
-
-### 🌐 Web Development
+### 🌐 Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* React
-* Tailwind CSS
-
----
-
-### 🤖 Bots & Automation
+### 🤖 Discord & Telegram
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,discord" />
+  <img src="https://skillicons.dev/icons?i=discord,python" />
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
 </p>
 
-I can design and develop projects for:
-
-* 🤖 Discord Bots
-* ✈️ Telegram Bots
-* ⚙️ Automation Tools
-* 🔧 Utility Applications
-* 🛡️ Moderation Systems
-* 📡 API-based Projects
-
-I enjoy building bots that are modular, maintainable, and easy to extend.
-
----
-
-## 🐧 Linux
+### 🐧 Linux
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,debian" />
 </p>
 
-* Linux
-* Bash
-* Terminal / CLI
-* Shell scripting
-* System configuration
-* Package management
-* Troubleshooting
-* Linux-based development environments
-
-I enjoy working close to the system and learning how things work under the hood.
-
----
-
-## 🎮 Game Development
+### 🎮 Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=godot" />
 </p>
 
-### Godot
-
-Interested in creating games with:
-
-* Game mechanics
-* Gameplay systems
-* UI systems
-* Level design
-* World building
-* Story-driven experiences
-* Lightweight and stylized games
-
----
-
-## 🧊 3D Modeling & Game Assets
+### 🧊 3D Modeling
 
 <p>
   <img src="https://skillicons.dev/icons?i=blender" />
+  <img src="https://cdn.simpleicons.org/blockbench" width="48" />
 </p>
 
-### 🧱 Blockbench
-
-* Low-poly modeling
-* Stylized game assets
-* Voxel-based modeling
-* Game-ready models
-* Rapid 3D prototyping
-
-### 🟧 Blender
-
-* 3D modeling
-* Game-ready assets
-* Low-poly workflows
-* Materials & textures
-* Basic asset creation
-## 🧊 3D Modeling & Game Assets
-
-<p>
-  <img src="https://skillicons.dev/icons?i=blender" />
-</p>
-
-### Blender
-
-* 3D modeling
-* Basic asset creation
-* Game-ready mo
-
-## 🛠️ Development Tools
+### 🛠️ Tools & IDEs
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,neovim,git,github,docker" />
+  <img src="https://cdn.simpleicons.org/vscodium" width="48" />
 </p>
 
-### Editors & IDEs
-
-* Visual Studio Code
-* VSCodium
-* PyCharm
-* Neovim
-
-### Development & Collaboration
-
-* Git
-* GitHub
-* Docker
-* Virtual Environments
-* CLI Tools
-
----
-
-## 🗄️ Backend & Databases
+### 🗄️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,postgresql,docker" />
 </p>
 
-Currently exploring:
+---
 
-* FastAPI
-* REST APIs
-* PostgreSQL
-* Docker
-* Backend architecture
+## 🚀 What I Build
+
+<p>
+  🐍 Python Projects · 🤖 Discord & Telegram Bots · ⚙️ Automation ·
+  🐧 Linux Tools · 🌐 Web Apps · 🎮 Games · 🧊 3D Assets
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-My current learning path:
-
-```text
-Python
-   ↓
-Linux
-   ↓
-Git & GitHub
-   ↓
-JavaScript
-   ↓
-React
-   ↓
-Tailwind CSS
-   ↓
-FastAPI
-   ↓
-PostgreSQL
-   ↓
-Docker
-```
-
-Alongside this, I'm exploring:
-
-```text
-Godot
-   ↓
-Game Development
-   ↓
-Blockbench / Blender
-   ↓
-3D Game Assets
-```
-
----
-
-## 🔨 What I Like Building
-
-```text
-🐍 Python Applications
-🤖 Discord Bots
-✈️ Telegram Bots
-⚙️ Automation Tools
-🐧 Linux Tools & Scripts
-🌐 Web Applications
-🎮 Games
-🧊 3D Game Assets
-🔧 Developer Utilities
-```
-
----
-
-## 💡 Interests
-
-* Open Source
-* Linux
-* Python
-* Software Development
-* Automation
-* Game Development
-* 3D Modeling
-* Developer Tools
-* Computer Systems
-* Creative Coding
+<p>
+  <img src="https://skillicons.dev/icons?i=python,linux,git,js,react,tailwind,fastapi,postgresql,docker,godot,blender" />
+</p>
 
 ---
 
