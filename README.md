@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Zanjare (زَنجَرِه)
+# 👋I'm Zanjare (زَنجَرِه)
 
 ### 🐍 Python Developer · 🐧 Linux Enthusiast · 🤖 Bot Developer · 🎮 Game Developer
 
@@ -102,23 +102,32 @@ Interested in creating games with:
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
-### Blender
-
-* 3D modeling
-* Basic asset creation
-* Game-ready models
-* Low-poly workflows
-* Materials & textures
-
-### Blockbench
+### 🧱 Blockbench
 
 * Low-poly modeling
 * Stylized game assets
 * Voxel-based modeling
 * Game-ready models
-* Rapid prototyping
+* Rapid 3D prototyping
 
----
+### 🟧 Blender
+
+* 3D modeling
+* Game-ready assets
+* Low-poly workflows
+* Materials & textures
+* Basic asset creation
+## 🧊 3D Modeling & Game Assets
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender" />
+</p>
+
+### Blender
+
+* 3D modeling
+* Basic asset creation
+* Game-ready mo
 
 ## 🛠️ Development Tools
 
