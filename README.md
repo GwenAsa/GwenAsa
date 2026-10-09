@@ -1,102 +1,54 @@
-# I'm Zanjare [زَنجَرِه]
+```text
+╭──────────────────────────────────────╮
+│          G W E N - A S A             │
+│       BOT DEVELOPER  /  PYTHON        │
+╰──────────────────────────────────────╯
+```
 
-### 🐍 Python Developer · 🐧 Linux · 🤖 Bots · 🎮 Game Development
+<h3 align="left">⟡ Gwen-Asa</h3>
 
-I build software, automation tools, bots, games, and creative projects.
-
----
-
-## 🧠 Skills
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,js,ts,html,css" />
+<p align="left">
+  <samp>「 Discord & Telegram Bot Developer 」</samp>
 </p>
 
-### 🌐 Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+<p align="left">
+  Building bots, automating workflows, and turning ideas into code.
 </p>
 
-### 🤖 Discord & Telegram
-
-<p>
-  <img src="https://skillicons.dev/icons?i=discord,python" />
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
-</p>
-
-### 🐧 Linux
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,debian" />
-</p>
-
-### 🎮 Game Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=godot" />
-</p>
-
-### 🧊 3D Modeling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=blender" />
-  <img src="https://cdn.simpleicons.org/blockbench" width="48" />
-</p>
-
-### 🛠️ Tools & IDEs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,neovim,git,github,docker" />
-  <img src="https://cdn.simpleicons.org/vscodium" width="48" />
-</p>
-
-### 🗄️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,docker" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 What I Build
+### ⌁ WHAT I DO
 
-<p>
-  🐍 Python Projects · 🤖 Discord & Telegram Bots · ⚙️ Automation ·
-  🐧 Linux Tools · 🌐 Web Apps · 🎮 Games · 🧊 3D Assets
-</p>
+```text
+[01]  Discord Bot Development
+[02]  Telegram Bot Development
+[03]  Automation & API Integration
+[04]  Linux & Open Source
+```
 
----
+### ⌁ PROJECTS & CONTACT
 
-## 📚 Currently Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,linux,git,js,react,tailwind,fastapi,postgresql,docker,godot,blender" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zanjare&show_icons=true&hide_border=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanjare&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## 🌐 Find Me
-
-<p>
-  <a href="https://github.com/Zanjare">
-    <img src="https://img.shields.io/badge/GitHub-Zanjare-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <a href="YOUR_DISCY_BOT_INVITE_LINK">
+    <img src="https://img.shields.io/badge/🤖_Add_D iscy-5865F2?style=for-the-badge" />
+  </a>
+  <a href="YOUR_DISCORD_SERVER_INVITE">
+    <img src="https://img.shields.io/badge/☏_Discord_Community-181717?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Code · Create · Learn · Repeat</b>
+  <samp>「 Build quietly. Ship quality. 」</samp>
+  <br/>
+  <sub>⌜ Gwen-Asa · Python · Bots · Automation ⌟</sub>
 </p>
