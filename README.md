@@ -55,7 +55,7 @@ I develop custom Discord and Telegram bots tailored to your needs. From communit
 
 **Let's turn it into a working project.**
 
-<a href="YOUR_DISCORD_SERVER_LINK">
+<a href="https://discord.gg/JhA6hXSMwE">
   <img src="https://img.shields.io/badge/CONTACT_FOR_ORDERS-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact for bot development orders" />
 </a>
 
