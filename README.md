@@ -1,54 +1,33 @@
-```text
-╭──────────────────────────────────────╮
-│          G W E N - A S A             │
-│       BOT DEVELOPER  /  PYTHON        │
-╰──────────────────────────────────────╯
-```
-
-<h3 align="left">⟡ Gwen-Asa</h3>
+# GwenAsa
 
 <p align="left">
-  <samp>「 Discord & Telegram Bot Developer 」</samp>
+  <samp>✦ Python Developer · Discord & Telegram Bots ✦</samp>
 </p>
+
+I build custom bots, automation tools, and practical software solutions. Passionate about Python, Linux, and open-source development.
+
+### ⟡ TECHNOLOGIES
 
 <p align="left">
-  Building bots, automating workflows, and turning ideas into code.
+  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,git,github" alt="Python, JavaScript, Bash, Linux, Git and GitHub" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+### ⟡ WHAT I DO
 
----
+* 🤖 Discord bot development
+* ✈️ Telegram bot development
+* ⚙️ Automation & API integration
+* 🐧 Linux & open-source projects
 
-### ⌁ WHAT I DO
-
-```text
-[01]  Discord Bot Development
-[02]  Telegram Bot Development
-[03]  Automation & API Integration
-[04]  Linux & Open Source
-```
-
-### ⌁ PROJECTS & CONTACT
+### ⟡ FIND ME ON DISCORD
 
 <p align="left">
   <a href="YOUR_DISCY_BOT_INVITE_LINK">
-    <img src="https://img.shields.io/badge/🤖_Add_D iscy-5865F2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤖%20Discy-Add%20Bot-5865F2?style=for-the-badge" alt="Add Discy bot" />
   </a>
   <a href="YOUR_DISCORD_SERVER_INVITE">
-    <img src="https://img.shields.io/badge/☏_Discord_Community-181717?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord server" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <samp>「 Build quietly. Ship quality. 」</samp>
-  <br/>
-  <sub>⌜ Gwen-Asa · Python · Bots · Automation ⌟</sub>
+  <sub>✦ Gwen-Asa · Turning ideas into code ✦</sub>
 </p>
