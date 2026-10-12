@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,50:8c5cf5,100:eb459e&height=240&section=header&text=GwenAsa&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20%26%20Telegram%20Bot%20Developer&descAlignY=60&descSize=22" width="100%" alt="GwenAsa banner" />
-
 <a href="https://gwenasa.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=3200&pause=900&color=5865F2&center=true&vCenter=true&width=720&lines=Custom+Discord+bots+built+clean+and+shipped+fast;Slash+commands+%C2%B7+embeds+%C2%B7+buttons+%C2%B7+panels;Moderation+%C2%B7+tickets+%C2%B7+roles+%C2%B7+automation;Open+for+commissions+%E2%9C%A6" alt="Typing animation" />
 </a>
