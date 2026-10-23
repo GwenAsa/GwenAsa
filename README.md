@@ -29,8 +29,8 @@ I build bots, web experiences, and useful tools — with a focus on clean code a
 
 ### 🚀 Selected Projects
 
+- **[Cordium-IDE](https://github.com/GwenAsa/cordium-ide)** — The purpose-built, ultra-fast IDE for Discord application creation.
 - **[Discy](https://github.com/GwenAsa/discy-free-premium-discord-bot)** — A multipurpose Discord bot built with Python.
-- **[Git Course (FA)](https://github.com/GwenAsa/git-course-fa)** — A comprehensive Git learning resource in Persian.
 - **[More Projects →](https://github.com/GwenAsa?tab=repositories)** — Explore my other repositories.
 
 ### 🔗 Elsewhere
