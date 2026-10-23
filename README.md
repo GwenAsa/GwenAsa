@@ -16,16 +16,36 @@ I build bots, web experiences, and useful tools — with a focus on clean code a
 
 ### 🧰 Tech Stack
 
-<div align="center">
+<p align="center">
+  <strong>Languages & Web</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css&theme=dark&perline=6" alt="Python, JavaScript, TypeScript, Node.js, HTML and CSS" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,git,github,linux,vscode&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, Git, GitHub, Linux, and VS Code">
+<p align="center">
+  <strong>Frameworks, Databases & Desktop</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,vite,sqlite,rust,tauri&theme=dark&perline=5" alt="React, Vite, SQLite, Rust and Tauri" />
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs" />
+</p>
 
-<br><br>
+<p align="center">
+  <strong>Tools, Systems & Design</strong>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,neovim,nix,figma,vscode&theme=dark&perline=8" alt="Git, GitHub, Linux, Bash, Neovim, Nix, Figma and VS Code" />
+  <br><br>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-8B5CF6?style=flat-square" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Graphic_Design-EC4899?style=flat-square" alt="Graphic Design" />
+</p>
 
-<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.py">
-<img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.js">
-
-</div>
+<p align="center">
+  <strong>Discord Development</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.py" />
+  <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.js" />
+</p>
 
 ### 🚀 Selected Projects
 
