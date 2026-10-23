@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GwenAsa/GwenAsa/file_0000000081f081f49993b14cf00170ec.png" alt="Banner" width="100%" />
-</div>
+<p align="center">
+  <img src="./file_0000000081f081f49993b14cf00170ec.png" width="100%">
+</p>
  <div align="center">
 
 # Asa
