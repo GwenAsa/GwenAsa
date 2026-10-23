@@ -1,13 +1,11 @@
+<img src="./file_0000000081f081f49993b14cf00170ec.png" width="100%">
 <p align="center">
-  <img src="./file_0000000081f081f49993b14cf00170ec.png" width="100%">
-</p>
-
 # Asa
 
 **Developer · Builder · Designer**
 
 I build bots, web experiences, and useful tools — with a focus on clean code and thoughtful design.
-
+</p>
 <a href="https://gwenasa.github.io"><img src="https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://github.com/GwenAsa?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 <a href="https://discord.com/users/1520091568684662834"><img src="https://img.shields.io/badge/Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Contact"></a>
