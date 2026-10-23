@@ -14,7 +14,7 @@ I build bots, web experiences, and useful tools — with a focus on clean code a
 
 ---
 
-### 🧰 Tech Stack
+# Tech Stack
 
 <p align="center">
   <strong>Languages & Web</strong>
@@ -47,13 +47,13 @@ I build bots, web experiences, and useful tools — with a focus on clean code a
   <img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.js" />
 </p>
 
-### 🚀 Selected Projects
+# Selected Projects
 
 - **[Cordium-IDE](https://github.com/GwenAsa/cordium-ide)** — The purpose-built, ultra-fast IDE for Discord application creation.
 - **[Discy](https://github.com/GwenAsa/discy-free-premium-discord-bot)** — A multipurpose Discord bot built with Python.
 - **[More Projects →](https://github.com/GwenAsa?tab=repositories)** — Explore my other repositories.
 
-### 🔗 Elsewhere
+# Elsewhere
 
 [Portfolio](https://gwenasa.github.io) · [GitHub](https://github.com/GwenAsa) · [Discord](https://discord.com/users/1520091568684662834)
 
