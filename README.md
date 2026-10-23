@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./file_0000000081f081f49993b14cf00170ec.png" width="100%">
-</p>
+<img src="./file_0000000081f081f49993b14cf00170ec.png" width="100%">
  <div align="center">
 
 # Asa
