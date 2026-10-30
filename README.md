@@ -1,4 +1,4 @@
-<img src="./file_0000000081f081f49993b14cf00170ec.png" width="100%">
+
 <p align="center">
 <h1>Asa</h1>
 
