@@ -1,1 +1,51 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">ASA Cyber Terminal</title>
+  <desc id="desc">A dark terminal-inspired banner with neon green accents and developer identity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B08"/>
+      <stop offset=".55" stop-color="#101B13"/>
+      <stop offset="1" stop-color="#1D3020"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".83" cy=".25" r=".85">
+      <stop offset="0" stop-color="#B8F36B" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#B8F36B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#B8F36B" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#glow)"/>
+  <rect width="1280" height="300" fill="url(#grid)"/>
+  <path d="M0 250H1280" stroke="#B8F36B" stroke-opacity=".25"/>
+  <path d="M0 253H1280" stroke="#B8F36B" stroke-opacity=".08" stroke-width="7" filter="url(#soft)"/>
+  <g transform="translate(78 62)">
+    <rect width="410" height="166" rx="10" fill="#0A100C" fill-opacity=".88" stroke="#B8F36B" stroke-opacity=".38"/>
+    <path d="M0 34H410" stroke="#B8F36B" stroke-opacity=".24"/>
+    <circle cx="20" cy="17" r="4" fill="#F27D72"/>
+    <circle cx="35" cy="17" r="4" fill="#E7C56A"/>
+    <circle cx="50" cy="17" r="4" fill="#B8F36B"/>
+    <text x="390" y="21" text-anchor="end" fill="#718675" font-family="monospace" font-size="9" letter-spacing="2">TTY / 001</text>
+    <text x="24" y="68" fill="#B8F36B" font-family="monospace" font-size="12">asa@cyber-terminal:~$ whoami</text>
+    <text x="24" y="94" fill="#E2EAE2" font-family="monospace" font-size="13">Independent Developer</text>
+    <text x="24" y="117" fill="#9EB09F" font-family="monospace" font-size="12">Linux enthusiast · Builder · Designer</text>
+    <text x="24" y="145" fill="#B8F36B" font-family="monospace" font-size="11">&gt; ready to build_</text>
+  </g>
+  <g transform="translate(555 73)">
+    <text x="0" y="18" fill="#B8F36B" font-family="monospace" font-size="11" letter-spacing="4">PERSONAL DEVELOPER ARCHIVE</text>
+    <text x="-4" y="105" fill="#F0F5EF" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="94" letter-spacing="-7">ASA</text>
+    <text x="3" y="140" fill="#B8F36B" font-family="monospace" font-weight="700" font-size="20" letter-spacing="5">CYBER TERMINAL</text>
+    <text x="3" y="174" fill="#A5B6A5" font-family="monospace" font-size="11" letter-spacing="2">GNU/LINUX  /  SOFTWARE  /  OPEN SOURCE</text>
+  </g>
+  <g fill="none" stroke="#B8F36B" stroke-opacity=".4">
+    <circle cx="1152" cy="68" r="31"/>
+    <circle cx="1152" cy="68" r="45" stroke-dasharray="3 7"/>
+    <path d="M1152 12V32M1152 104V124M1096 68H1116M1188 68H1208"/>
+  </g>
+  <text x="1198" y="278" text-anchor="end" fill="#78907A" font-family="monospace" font-size="9" letter-spacing="2">BUILD / EXPLORE / CREATE</text>
+</svg>
