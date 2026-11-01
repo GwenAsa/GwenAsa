@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="./assets/cyber-terminal-banner.svg" alt="ASA Cyber Terminal banner" />
+<img width="100%" src="cyber-terminal-banner.svg" alt="ASA Cyber Terminal banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=B8F36B&center=true&vCenter=true&width=720&lines=Independent+Developer+%2F+Linux+Enthusiast;Building+tools%2C+bots%2C+and+desktop+experiences;Exploring+GNU%2FLinux+one+system+at+a+time;Curiosity+is+part+of+the+workflow." alt="Typing introduction" />
 
