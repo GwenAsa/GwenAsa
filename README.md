@@ -222,18 +222,7 @@ currently_exploring:
     - Efficient development workflows
 ```
 
-# `07` / GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GwenAsa&show_icons=true&hide_border=true&bg_color=0B100D&title_color=B8F36B&icon_color=B8F36B&text_color=C7D4C8&ring_color=B8F36B&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GwenAsa&layout=compact&hide_border=true&bg_color=0B100D&title_color=B8F36B&text_color=C7D4C8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=GwenAsa&hide_border=true&background=0B100D&ring=B8F36B&fire=B8F36B&currStreakLabel=B8F36B&sideLabels=C7D4C8&dates=829487&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-
-</div>
-
-# `08` / CONNECT
+# `07` / CONNECT
 
 <div align="center">
 
