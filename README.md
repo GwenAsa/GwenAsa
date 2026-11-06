@@ -1,9 +1,3 @@
-<div align="center">
-
-<img width="100%" src="./assets/cyber-terminal-banner.svg" alt="ASA Cyber Terminal banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=DC2626&center=true&vCenter=true&width=720&lines=Independent+Developer+%2F+Linux+Enthusiast;Building+tools%2C+bots%2C+and+desktop+experiences" alt="Typing intro" />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://gwenasa.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GwenAsa)
 [![Discord](https://img.shields.io/badge/Discord-DC2626?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1520091568684662834)
@@ -16,8 +10,6 @@
 ### `💻` Developer · `🐧` Linux · `🎨` Designer · `🤖` Bots
 
 </div>
-
----
 
 ## 👋 About Me
 
@@ -35,13 +27,11 @@ I'm **Asa**, an independent developer with a soft spot for **GNU/Linux**, **open
 
 </div>
 
----
-
 <div align="center">
 
 ## 🐧 Linux
 
-From minimal distros to rolling releases — Linux is where I feel at home. Below are the systems I've spent real time with.
+From minimal distros to rolling releases Linux is where I feel at home. Below are the systems I've spent real time with.
 
 <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,linuxmint,fedora,alpine,gentoo,nix&theme=dark&perline=8" />
 
@@ -55,21 +45,17 @@ From minimal distros to rolling releases — Linux is where I feel at home. Belo
 
 </div>
 
----
-
 <div align="center">
 
 ## 🚀 Projects
 
-Tools I'm building with care — some shipped, some still cooking.
+Tools I'm building with care. some shipped, some still cooking.
 
 [![Cordium IDE](https://img.shields.io/badge/Cordium_IDE-DC2626?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/GwenAsa/cordium-ide)
 [![Discy](https://img.shields.io/badge/Discy_Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/GwenAsa/discy-free-premium-discord-bot)
 [![All Repos](https://img.shields.io/badge/All_Repositories-991B1B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GwenAsa?tab=repositories)
 
 </div>
-
----
 
 <div align="center">
 
