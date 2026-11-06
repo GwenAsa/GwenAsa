@@ -56,13 +56,3 @@
 [![More](https://img.shields.io/badge/All_Repos-14251A?style=for-the-badge&logo=github&logoColor=B8F36B)](https://github.com/GwenAsa?tab=repositories)
 
 </div>
-
----
-
-<div align="center">
-
-**`MAKE. BREAK. LEARN. REPEAT.`**
-
-<img width="100%" src="./assets/cyber-terminal-banner.svg" alt="Cyber Terminal footer" />
-
-</div>
