@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=DC2626&center=true&vCenter=true&width=720&lines=Independent+Developer+%2F+Linux+Enthusiast;Building+tools%2C+bots%2C+and+desktop+experiences" alt="Typing intro" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://gwenasa.github.io/)
@@ -57,6 +57,12 @@ From minimal distros to rolling releases — Linux is where I feel at home. Thes
 <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine Linux" />
 <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="Gentoo" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MX_Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux" />
+<img src="https://img.shields.io/badge/Omarchy-9ECE6A?style=for-the-badge&logo=linux&logoColor=white" alt="Omarchy" />
+<img src="https://img.shields.io/badge/Ryoku-E2342A?style=for-the-badge&logo=linux&logoColor=white" alt="Ryoku" />
+
 </div>
 
 ---
@@ -69,6 +75,20 @@ Tools I'm building with care — some shipped, some still cooking.
 
 [![Cordium IDE](https://img.shields.io/badge/Cordium_IDE-DC2626?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/GwenAsa/cordium-ide)
 [![Discy](https://img.shields.io/badge/Discy_Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/GwenAsa/discy-free-premium-discord-bot)
+
+<br/>
+
+[![Heatmap Desktop](https://img.shields.io/badge/Heatmap_Desktop-DC2626?style=for-the-badge&logo=tauri&logoColor=white)](https://github.com/GwenAsa/heatmap-desktop)
+[![BashTer Terminal](https://img.shields.io/badge/BashTer_Terminal-DC2626?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/GwenAsa/bashter-terminal)
+
+<br/>
+
+[![discord.py Encyclopedia](https://img.shields.io/badge/discord.py_Encyclopedia-DC2626?style=for-the-badge&logo=python&logoColor=white)](https://github.com/GwenAsa/discordpy-encyclopedia)
+[![Git Cheat Sheet](https://img.shields.io/badge/Git_Cheat_Sheet-DC2626?style=for-the-badge&logo=git&logoColor=white)](https://github.com/GwenAsa/git-cheat-sheet)
+[![Linux Command Cheat Sheet](https://img.shields.io/badge/Linux_Command_Cheat_Sheet-DC2626?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/GwenAsa/linux-command-cheat-sheet)
+
+<br/>
+
 [![All Repos](https://img.shields.io/badge/All_Repositories-991B1B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GwenAsa?tab=repositories)
 
 </div>
