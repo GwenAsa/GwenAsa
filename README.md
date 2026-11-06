@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="./assets/cyber-terminal-banner.svg" alt="ASA Cyber Terminal banner" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=DC2626&center=true&vCenter=true&width=720&lines=Independent+Developer+%2F+Linux+Enthusiast;Building+tools%2C+bots%2C+and+desktop+experiences" alt="Typing intro" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://gwenasa.github.io/)
