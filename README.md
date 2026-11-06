@@ -61,18 +61,6 @@
 
 <div align="center">
 
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GwenAsa&show_icons=true&bg_color=14251A&title_color=B8F36B&icon_color=B8F36B&text_color=FFFFFF&border_color=B8F36B&hide=issues,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GwenAsa&layout=compact&bg_color=14251A&title_color=B8F36B&text_color=FFFFFF&border_color=B8F36B)
-
-</div>
-
----
-
-<div align="center">
-
 **`MAKE. BREAK. LEARN. REPEAT.`**
 
 <img width="100%" src="./assets/cyber-terminal-banner.svg" alt="Cyber Terminal footer" />
