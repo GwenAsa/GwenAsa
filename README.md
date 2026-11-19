@@ -16,12 +16,9 @@
 
 ### About
 
-I'm **Asa** — an independent developer drawn to **GNU/Linux**, open source, and thoughtfully crafted software.
+I'm **Amber**; an independent developer drawn to **GNU/Linux**, open source, and thoughtfully crafted software.
 
 I build developer tools, Discord bots, and desktop applications. I enjoy exploring systems, designing interfaces, and making useful things work — even on modest hardware.
-
-> *Build useful things. Understand the systems beneath them.*
-
 ---
 
 ### Tools & Technologies
@@ -40,9 +37,8 @@ I build developer tools, Discord bots, and desktop applications. I enjoy explori
 
 [![Cordium IDE](https://img.shields.io/badge/CORDIUM_IDE-111111?style=for-the-badge&logo=discord&logoColor=B91C1C)](https://github.com/GwenAsa/cordium-ide)
 [![Heatmap Desktop](https://img.shields.io/badge/HEATMAP_DESKTOP-111111?style=for-the-badge&logo=tauri&logoColor=B91C1C)](https://github.com/GwenAsa/heatmap-desktop)
+[![View All Repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-151515?style=for-the-badge&logo=github&logoColor=B91C1C)](https://github.com/GwenAsa?tab=repositories)
 
-[![BashTer Terminal](https://img.shields.io/badge/BASHTER_TERMINAL-111111?style=for-the-badge&logo=rust&logoColor=B91C1C)](https://github.com/GwenAsa/bashter-terminal)
-[![Discy Bot](https://img.shields.io/badge/DISCY_BOT-111111?style=for-the-badge&logo=discord&logoColor=B91C1C)](https://github.com/GwenAsa/discy-free-premium-discord-bot)
 
 </div>
 
@@ -53,9 +49,26 @@ I build developer tools, Discord bots, and desktop applications. I enjoy explori
 ### Linux
 
 A long-running interest in Linux, from lightweight distributions to highly customizable systems.
+<div align="center">
 
-`Void` · `NixOS` · `Arch` · `Mint` · `Zorin` · `Ubuntu` · `Debian` · `Fedora` · `Alpine` · `Gentoo` · `MX Linux` · `Omarchy` · `Ryoku`
+<img src="https://img.shields.io/badge/Void-151515?style=flat-square&logo=voidlinux&logoColor=B91C1C" alt="Void" />
+<img src="https://img.shields.io/badge/NixOS-151515?style=flat-square&logo=nixos&logoColor=B91C1C" alt="NixOS" />
+<img src="https://img.shields.io/badge/Arch-151515?style=flat-square&logo=archlinux&logoColor=B91C1C" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Mint-151515?style=flat-square&logo=linuxmint&logoColor=B91C1C" alt="Linux Mint" />
+<img src="https://img.shields.io/badge/Zorin-151515?style=flat-square&logo=zorin&logoColor=B91C1C" alt="Zorin OS" />
+<img src="https://img.shields.io/badge/Ubuntu-151515?style=flat-square&logo=ubuntu&logoColor=B91C1C" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Debian-151515?style=flat-square&logo=debian&logoColor=B91C1C" alt="Debian" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Fedora-151515?style=flat-square&logo=fedora&logoColor=B91C1C" alt="Fedora" />
+<img src="https://img.shields.io/badge/Alpine-151515?style=flat-square&logo=alpinelinux&logoColor=B91C1C" alt="Alpine Linux" />
+<img src="https://img.shields.io/badge/Gentoo-151515?style=flat-square&logo=gentoo&logoColor=B91C1C" alt="Gentoo" />
+<img src="https://img.shields.io/badge/MX_Linux-151515?style=flat-square&logo=mxlinux&logoColor=B91C1C" alt="MX Linux" />
+<img src="https://img.shields.io/badge/Omarchy-151515?style=flat-square&logo=linux&logoColor=B91C1C" alt="Omarchy" />
+<img src="https://img.shields.io/badge/Ryoku-151515?style=flat-square&logo=linux&logoColor=B91C1C" alt="Ryoku" />
+
+</div>
 ---
 
 <div align="center">
