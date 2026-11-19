@@ -59,12 +59,7 @@ A long-running interest in Linux — from minimal distributions to highly custom
 
 \<br/>
 
-\<img src="[https://img.shields.io/badge/Fedora-151515?style=flat-square&logo=fedora&logoColor=B91C1C](https://img.shields.io/badge/Fedora-151515?style=flat-square\&logo=fedora\&logoColor=B91C1C)" alt="Fedora" />
-\<img src="[https://img.shields.io/badge/Alpine-151515?style=flat-square&logo=alpinelinux&logoColor=B91C1C](https://img.shields.io/badge/Alpine-151515?style=flat-square\&logo=alpinelinux\&logoColor=B91C1C)" alt="Alpine Linux" />
-\<img src="[https://img.shields.io/badge/Gentoo-151515?style=flat-square&logo=gentoo&logoColor=B91C1C](https://img.shields.io/badge/Gentoo-151515?style=flat-square\&logo=gentoo\&logoColor=B91C1C)" alt="Gentoo" />
-\<img src="[https://img.shields.io/badge/MX_Linux-151515?style=flat-square&logo=mxlinux&logoColor=B91C1C](https://img.shields.io/badge/MX_Linux-151515?style=flat-square\&logo=mxlinux\&logoColor=B91C1C)" alt="MX Linux" />
-\<img src="[https://img.shields.io/badge/Omarchy-151515?style=flat-square&logo=omarchy&logoColor=B91C1C](https://img.shields.io/badge/Omarchy-151515?style=flat-square\&logo=omarchy\&logoColor=B91C1C)" alt="Omarchy" />
-\<a href="[https://ryoku.dev/](https://ryoku.dev/)">\<img src="[https://img.shields.io/badge/Ryoku-151515?style=flat-square&logo=linux&logoColor=B91C1C](https://img.shields.io/badge/Ryoku-151515?style=flat-square\&logo=linux\&logoColor=B91C1C)" alt="Ryoku" />\</a>
+\<img src="[https://img.shields.io/badge/Fedora-151515?style=flat-square&logo=fedora&logoColor=B91C1C](https://img.shields.io/badge/Fedora-151515?style=flat-square\&logo=fedora\&logoColor=B91C1C)" alt="Fedora" /> \<img src="[https://img.shields.io/badge/Alpine-151515?style=flat-square&logo=alpinelinux&logoColor=B91C1C](https://img.shields.io/badge/Alpine-151515?style=flat-square\&logo=alpinelinux\&logoColor=B91C1C)" alt="Alpine Linux" /> \<img src="[https://img.shields.io/badge/Gentoo-151515?style=flat-square&logo=gentoo&logoColor=B91C1C](https://img.shields.io/badge/Gentoo-151515?style=flat-square\&logo=gentoo\&logoColor=B91C1C)" alt="Gentoo" /> \<img src="[https://img.shields.io/badge/MX_Linux-151515?style=flat-square&logo=mxlinux&logoColor=B91C1C](https://img.shields.io/badge/MX_Linux-151515?style=flat-square\&logo=mxlinux\&logoColor=B91C1C)" alt="MX Linux" /> \<img src="[https://img.shields.io/badge/Omarchy-151515?style=flat-square&logo=omarchy&logoColor=B91C1C](https://img.shields.io/badge/Omarchy-151515?style=flat-square\&logo=omarchy\&logoColor=B91C1C)" alt="Omarchy" /> \<img src="[https://img.shields.io/badge/Ryoku-151515?style=flat-square&logo=linux&logoColor=B91C1C](https://img.shields.io/badge/Ryoku-151515?style=flat-square\&logo=linux\&logoColor=B91C1C)" alt="Ryoku" />
 
 \</div>
 
