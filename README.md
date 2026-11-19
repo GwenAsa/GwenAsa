@@ -12,14 +12,11 @@
 
 </div>
 
----
-
 ### About
 
 I'm **Amber**; an independent developer drawn to **GNU/Linux**, open source, and thoughtfully crafted software.
 
 I build developer tools, Discord bots, and desktop applications. I enjoy exploring systems, designing interfaces, and making useful things work — even on modest hardware.
----
 
 ### Tools & Technologies
 
@@ -29,22 +26,48 @@ I build developer tools, Discord bots, and desktop applications. I enjoy explori
 
 </div>
 
----
-
 ### Selected Work
 
 <div align="center">
+### Projects & Repositories
 
-[![Cordium IDE](https://img.shields.io/badge/CORDIUM_IDE-111111?style=for-the-badge&logo=discord&logoColor=B91C1C)](https://github.com/GwenAsa/cordium-ide)
-[![Heatmap Desktop](https://img.shields.io/badge/HEATMAP_DESKTOP-111111?style=for-the-badge&logo=tauri&logoColor=B91C1C)](https://github.com/GwenAsa/heatmap-desktop)
-[![View All Repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-151515?style=for-the-badge&logo=github&logoColor=B91C1C)](https://github.com/GwenAsa?tab=repositories)
+<div align="center">
 
+<a href="https://github.com/GwenAsa/cordium-ide"><img src="https://img.shields.io/badge/CORDIUM-111111?style=flat-square&logo=discord&logoColor=B91C1C" alt="Cordium IDE"></a>
+<a href="https://github.com/GwenAsa/heatmap-desktop"><img src="https://img.shields.io/badge/HEATMAP-111111?style=flat-square&logo=tauri&logoColor=B91C1C" alt="Heatmap Desktop"></a>
+<a href="https://github.com/GwenAsa/bashter-terminal"><img src="https://img.shields.io/badge/BASHTER-111111?style=flat-square&logo=linux&logoColor=B91C1C" alt="BashTer Terminal"></a>
+<a href="https://github.com/GwenAsa/playbox"><img src="https://img.shields.io/badge/PLAYBOX-111111?style=flat-square&logo=steam&logoColor=B91C1C" alt="PlayBox"></a>
+<a href="https://github.com/GwenAsa/discy-free-premium-discord-bot"><img src="https://img.shields.io/badge/DISCY_BOT-111111?style=flat-square&logo=discord&logoColor=B91C1C" alt="Discy Bot"></a>
+
+<br/>
+
+<a href="https://github.com/GwenAsa/VoidMint"><img src="https://img.shields.io/badge/VOIDMINT-111111?style=flat-square&logo=voidlinux&logoColor=B91C1C" alt="VoidMint"></a>
+<a href="https://github.com/GwenAsa/PyPortScanner"><img src="https://img.shields.io/badge/PYPORTSCANNER-111111?style=flat-square&logo=python&logoColor=B91C1C" alt="PyPortScanner"></a>
+<a href="https://github.com/GwenAsa/persian-translator-for-reddit"><img src="https://img.shields.io/badge/REDDIT_TRANSLATOR-111111?style=flat-square&logo=reddit&logoColor=B91C1C" alt="Persian Translator for Reddit"></a>
+<a href="https://github.com/GwenAsa/krasnoye-znamya"><img src="https://img.shields.io/badge/KRASNOYE_ZNAMYA-111111?style=flat-square&logo=visualstudiocode&logoColor=B91C1C" alt="Krasnoye Znamya"></a>
+<a href="https://github.com/GwenAsa/GwenAsa.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logo=githubpages&logoColor=B91C1C" alt="Portfolio"></a>
+
+<br/>
+
+<a href="https://github.com/GwenAsa/git-course-fa"><img src="https://img.shields.io/badge/GIT_COURSE-111111?style=flat-square&logo=git&logoColor=B91C1C" alt="Git Course"></a>
+<a href="https://github.com/GwenAsa/linux-terminal-mastery"><img src="https://img.shields.io/badge/LINUX_TERMINAL-111111?style=flat-square&logo=linux&logoColor=B91C1C" alt="Linux Terminal Mastery"></a>
+<a href="https://github.com/GwenAsa/vim-nvim-mastery"><img src="https://img.shields.io/badge/VIM_NEOVIM-111111?style=flat-square&logo=neovim&logoColor=B91C1C" alt="Vim & Neovim Mastery"></a>
+<a href="https://github.com/GwenAsa/linux-command-cheat-sheet"><img src="https://img.shields.io/badge/LINUX_COMMANDS-111111?style=flat-square&logo=linux&logoColor=B91C1C" alt="Linux Command Cheat Sheet"></a>
+<a href="https://github.com/GwenAsa/git-cheat-sheet"><img src="https://img.shields.io/badge/GIT_CHEATSHEET-111111?style=flat-square&logo=git&logoColor=B91C1C" alt="Git Cheat Sheet"></a>
+
+<br/>
+
+<a href="https://github.com/GwenAsa/discordpy-encyclopedia"><img src="https://img.shields.io/badge/DISCORDPY_GUIDE-111111?style=flat-square&logo=python&logoColor=B91C1C" alt="discord.py Encyclopedia"></a>
+<a href="https://github.com/GwenAsa/GwenAsa"><img src="https://img.shields.io/badge/PROFILE_README-111111?style=flat-square&logo=github&logoColor=B91C1C" alt="Profile README"></a>
+
+<br/><br/>
+
+<a href="https://github.com/GwenAsa?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-151515?style=flat-square&logo=github&logoColor=B91C1C" alt="View All Repositories"></a>
 
 </div>
 
-**Other work:** [discord.py Encyclopedia](https://github.com/GwenAsa/discordpy-encyclopedia) · [Git Cheat Sheet](https://github.com/GwenAsa/git-cheat-sheet) · [Linux Command Cheat Sheet](https://github.com/GwenAsa/linux-command-cheat-sheet)
 
----
+</div>
 
 ### Linux
 
@@ -69,7 +92,6 @@ A long-running interest in Linux, from lightweight distributions to highly custo
 <img src="https://img.shields.io/badge/Ryoku-151515?style=flat-square&logo=linux&logoColor=B91C1C" alt="Ryoku" />
 
 </div>
----
 
 <div align="center">
 
