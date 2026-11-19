@@ -26,10 +26,10 @@ I build developer tools, Discord bots, and desktop applications. I enjoy explori
 
 </div>
 
-### Selected Work
+### Projects & Repositories
 
 <div align="center">
-### Projects & Repositories
+
 
 <div align="center">
 
